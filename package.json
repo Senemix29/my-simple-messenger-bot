@@ -1,0 +1,23 @@
+{
+  "name": "my-simple-messenger-bot",
+  "version": "1.0.0",
+  "description": "A simple node app to play with facebook messenger bots, using messenger-bot lib",
+  "main": "echo.js",
+  "dependencies": {
+    "messenger-bot": "2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Senemix29/my-simple-messenger-bot.git"
+  },
+  "keywords": [],
+  "author": "Natan Ximenes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Senemix29/my-simple-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/Senemix29/my-simple-messenger-bot#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
